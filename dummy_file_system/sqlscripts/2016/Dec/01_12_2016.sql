@@ -1,0 +1,11 @@
+foo
+
+
+added
+
+
+modified
+
+modifiedoo
+
+
